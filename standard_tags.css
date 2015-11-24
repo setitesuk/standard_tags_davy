@@ -1,0 +1,29 @@
+body{
+    margin-top: 50px;
+}
+.panel{
+    padding: 10px;
+}
+
+p{
+    text-indent: 15px;
+}
+
+.replaceable-text{
+    background-color: #D8D8D8;
+    padding: 3px;
+    //border: dotted 2px blue;
+
+}
+
+textarea {
+  min-height: 270px;
+}
+
+#empty-search-result{
+    display: none;
+}
+
+#leading-para{
+    text-align: center;
+}
